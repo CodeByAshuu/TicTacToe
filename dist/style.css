@@ -443,7 +443,7 @@ img {
     height: 100%;
     background-color: #131313;
     background-image: url(../dist/assets/pattern1.png);
-    background-size: 300px;
+    background-size: 180px;
     float: left;
     display: flex;
     align-items: center;
